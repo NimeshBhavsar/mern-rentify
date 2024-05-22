@@ -1,0 +1,4 @@
+mongodb username: nimeshbhavsar006
+mongodb password: nimesh123
+
+mongodb+srv://nimeshbhavsar006:nimesh123@cluster0.8ru1lor.mongodb.net/
