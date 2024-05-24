@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**MERN Estate** is a web application designed for renting houses with ease. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this application allows users to browse, search, and view rental properties.
-**Live Demo: https://mern-rentify.onrender.com/** [MERN Estate](https://mern-rentify.onrender.com/)
+**MERN Estate** is a web application designed for renting and selling houses with ease. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this application allows users to browse, search, view, and list rental and sale properties.
 
+**Live Demo: [https://mern-rentify.onrender.com](https://mern-rentify.onrender.com/)**
 
 ## Project Structure
 
@@ -78,6 +78,25 @@ Make sure you have the following installed on your machine:
     ```bash
     npm start
     ```
+
+## Functional Modules
+
+### Property Listing
+
+Users can add properties for both rent and sale with detailed information, including:
+
+- **Property Information:**
+  - Property type (rent or sale)
+  - Parking availability
+  - Furnishing status (furnished or unfurnished)
+  - Number of rooms
+  - Number of bathrooms
+  - Up to six images of the property
+  - Discounted price option
+
+### Property Management
+
+Users can update the details of their listed properties, ensuring the information is always up-to-date.
 
 ## Scripts
 
